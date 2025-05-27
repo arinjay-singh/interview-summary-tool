@@ -32,8 +32,8 @@ NJ FAIR provides an AI-assisted investigation and review system with three key c
 | **Frontend**        | Next.js, Tailwind CSS, Azure Static Web Apps                                      |
 | **Backend**         | Flask (Python), Azure Container Apps, Docker, Azure Container Registry (ACR)      |
 | **Database**        | PostgreSQL, Azure Database for PostgreSQL                                         |
-| **AI/ML**           | Whisper (OpenAI), GPT-4o (OpenAI)                                                 |
-| **Security & Networking** | Azure VNet, Azure Front Door (SSL Termination, Load Balancing)             |
+| **AI/ML**           | GPT4o Transcribe (OpenAI), GPT-4o (OpenAI)                                                 |
+| **Security & Networking** | Secruity through the cloud            |
 | **Infra/DevOps**    | Docker, Azure Container Registry, Azure Infrastructure (scalable, highly available) |
 | **Data Privacy**    | Uploaded documents are not stored; they are deleted immediately after processing   |
 
